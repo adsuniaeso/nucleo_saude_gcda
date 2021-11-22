@@ -254,6 +254,7 @@ void mostre(int pos)
  * Autor: Guilherme
  * E-mail: guilherme.cavalcanti@aluno.uniaeso.edu.br
  */
+
 void remover()
 {
     int conf, resp, posicao;
